@@ -1,0 +1,3854 @@
+{
+    "Offer Data ": [
+        {
+            "category": "Food",
+            "coupon": "MCDONALD'S09",
+            "text": "McSaver Salad Wrap Meal Starting from Rs. 263",
+            "link": "https://www.mcdonaldsindia.com/",
+            "success_ratio": "20",
+            "logo": "https://webstockreview.net/images/mcdonalds-clipart-icon-12.png",
+            "heading": "McDonald's Coupon",
+            "subtext": "Coupon Id - MCDONALD'S09"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY20",
+            "text": "Pickup or Drop anything from anywhere in the City using Swiggy Genie (App Only)",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "20",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY20"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP13",
+            "text": "Low Cost Flight Bookings for Mumbai-Kuala Lumpur Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "20",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP13"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES07",
+            "text": "Upto 80% Off on Apparel for Women",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "36",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES07"
+        },
+        {
+            "category": "Food",
+            "coupon": "MCDONALD'S08",
+            "text": "Breakfast 2 Piece Meals Starting from Rs. 126",
+            "link": "https://www.mcdonaldsindia.com/",
+            "success_ratio": "45",
+            "logo": "https://webstockreview.net/images/mcdonalds-clipart-icon-12.png",
+            "heading": "McDonald's Coupon",
+            "subtext": "Coupon Id - MCDONALD'S08"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY19",
+            "text": "Get Groceries & Staples Delivered at your Doorstep (Bangalore)",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "45",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY19"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA23",
+            "text": "Now Delivering: Upto 45% Off on Personal Care Essentials",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "45",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA23"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP12",
+            "text": "Low Cost Flight Bookings for Pune Bangkok Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "45",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP12"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC05",
+            "text": "Pay Using Airtel Money Wallet / Airtel Payments Bank and Get Upto Rs. 150 Cashback on Min. Transaction of Rs 500",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "48",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC05"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA25",
+            "text": "Upto 45% Off on Game of Thrones Tshirts",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "48",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA25"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO05",
+            "text": "Min 40% Off on GAS Fashion",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "48",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO05"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA22",
+            "text": "Upto 70% Off on the Freshest Styles from Vero Moda",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "51",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA22"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA41",
+            "text": "Upto 80% Off on Home Furnishing",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "52",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA41"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL07",
+            "text": "Elegant Sarees Under Rs. 999",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "55",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL07"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES06",
+            "text": "ShopClues Bestsellers: Fashion, Electronics, Home Furnishing & More starting at Rs. 149",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "56",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES06"
+        },
+        {
+            "category": "Travel",
+            "coupon": "REDBUS02",
+            "text": "Pay Using Amazon Pay and Get Upto Rs 300 Cashback on Bus Bookings",
+            "link": "https://www.redbus.in/",
+            "success_ratio": "56",
+            "logo": "https://cdn-images-1.medium.com/max/1200/1*dei7jVP89gp7tDNViaqK_A.png",
+            "heading": "Redbus Discount Coupon",
+            "subtext": "Coupon Id - REDBUS02"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL06",
+            "text": "The Summer Store: Upto 70% Off on Summer Fashion",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "59",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL06"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA04",
+            "text": "Season's Essentials from H&M Starting at Rs. 799",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "60",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA04"
+        },
+        {
+            "category": "Bills",
+            "coupon": "BSNL03",
+            "text": "Unlimited Calling + 1 GB Data/Day starting Rs. 199/28 Days",
+            "link": "https://www.bsnl.co.in/",
+            "success_ratio": "61",
+            "logo": "https://seeklogo.com/images/B/bsnl-logo-1C70BCC171-seeklogo.com.png",
+            "heading": "BSNL Recharge Voucher",
+            "subtext": "Coupon Id - BSNL03"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET10",
+            "text": "Mango Festival: Upto 20% Off on Season's Best Mangoes",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "61",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET10"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL05",
+            "text": "Women's Watches under Rs. 999",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "61",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL05"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA21",
+            "text": "Upto 70% Off on the Sports & Outdoor Fashion Range",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "61",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA21"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO23",
+            "text": "Upto 70% Off on U.S. Polo Assn. Fashion",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "61",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO23"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO24",
+            "text": "Min 50% Off on Flying Machine",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "61",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO24"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM17",
+            "text": "Early 2020 Deals: Flat 20% Off on Hotels and Holiday Destinations",
+            "link": "https://www.booking.com/",
+            "success_ratio": "61",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM17"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA40",
+            "text": "Minimum 50% Off on Fashion by ONLY",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "62",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA40"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS09",
+            "text": "15%  Cashback Upto Rs. 150 on Payments via Airtel Wallet (1st Transaction) and Payments Bank",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "63",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS09"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC10",
+            "text": "KFC Menu Starting at Just Rs. 95",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "63",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC10"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA20",
+            "text": "Upto 40-80% Off on Casual Wear for Men",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "63",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA20"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA43",
+            "text": "Upto 70% Off on the freshest styles from Vero Moda",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "63",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA43"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "CLUBFACTORY10",
+            "text": "Upto 75% Off on Men's Footwear",
+            "link": "https://www.clubfactory.com/amp/",
+            "success_ratio": "63",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Club_Factory_Logo.jpg",
+            "heading": "Club Factory Voucher",
+            "subtext": "Coupon Id - CLUBFACTORY10"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO10",
+            "text": "Min 30% Off on Jack n Jones",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "63",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO10"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO22",
+            "text": "Everything Under Rs. 699",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "63",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO22"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS11",
+            "text": "Domino's Bestsellers Pizzas Starting Rs. 99",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "64",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS11"
+        },
+        {
+            "category": "Food",
+            "coupon": "MCDONALD'S07",
+            "text": "Value Meals Starting from Rs. 144",
+            "link": "https://www.mcdonaldsindia.com/",
+            "success_ratio": "64",
+            "logo": "https://webstockreview.net/images/mcdonalds-clipart-icon-12.png",
+            "heading": "McDonald's Coupon",
+            "subtext": "Coupon Id - MCDONALD'S07"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY18",
+            "text": "Domino's Burger Pizza Starting at Rs. 99",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "64",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY18"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL04",
+            "text": "Upto 40% Off on Sunglasses",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "64",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL04"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA01",
+            "text": "Half Price Store: Flat 50% Off on Everything",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "64",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA01"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA19",
+            "text": "Upto 30-60% Off on Adidas Sportswear",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "64",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA19"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "CLUBFACTORY12",
+            "text": "Upto 82% Off on Bags, Clutches & Purses",
+            "link": "https://www.clubfactory.com/amp/",
+            "success_ratio": "64",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Club_Factory_Logo.jpg",
+            "heading": "Club Factory Voucher",
+            "subtext": "Coupon Id - CLUBFACTORY12"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP11",
+            "text": "International Flight Cancellations with 100% Moneyback Guarantee at Rs. 399",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "64",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP11"
+        },
+        {
+            "category": "Travel",
+            "coupon": "REDBUS04",
+            "text": "Great Deals on Bus Tickets",
+            "link": "https://www.redbus.in/",
+            "success_ratio": "64",
+            "logo": "https://cdn-images-1.medium.com/max/1200/1*dei7jVP89gp7tDNViaqK_A.png",
+            "heading": "Redbus Discount Coupon",
+            "subtext": "Coupon Id - REDBUS04"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM16",
+            "text": "Resorts, Villas and Homes in Goa at Great Prices",
+            "link": "https://www.booking.com/",
+            "success_ratio": "65",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM16"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO21",
+            "text": "Upto 60% Off on Nike Fashion",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "66",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO21"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA18",
+            "text": "Upto 70% Off on Amazing Styles under Rs. 399",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "67",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA18"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA39",
+            "text": "Sneaker Fest: Upto 70% Off on Shoes for Men & Women",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "67",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA39"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS08",
+            "text": "Domino's Medium Non-Veg Pizza Starting at Rs. 305",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "68",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS08"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES10",
+            "text": "Mobiles Mania: Upto 75% Off on Unboxed & Refurbished Phones",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "68",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES10"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "CLUBFACTORY09",
+            "text": "Upto 85% Off on Beauty Essentials",
+            "link": "https://www.clubfactory.com/amp/",
+            "success_ratio": "68",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Club_Factory_Logo.jpg",
+            "heading": "Club Factory Voucher",
+            "subtext": "Coupon Id - CLUBFACTORY09"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO20",
+            "text": "Upto 40% Off on Skechers",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "68",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO20"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC07",
+            "text": "3 pcs Red Hot Strips at Rs. 160",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "69",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC07"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL03",
+            "text": "Upto 70% Off on Refurbished Smartphones",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "69",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL03"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO07",
+            "text": "Upto 70% Off on Sunglasses",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "69",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO07"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS10",
+            "text": "Pay via Amazon Pay and Win Rs.10 to Rs.100 on Minimum Order of Rs.99",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "70",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS10"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM18",
+            "text": "Upto 40% Off on Footwear from Skechers",
+            "link": "https://paytm.com/",
+            "success_ratio": "70",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM18"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA17",
+            "text": "Minimum 30% Off on Nike Apparel, Footwear & Accessories",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "70",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA17"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA38",
+            "text": "Upto 70% Off on Footwear",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "70",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA38"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "CLUBFACTORY11",
+            "text": "Upto 75% Off on Jewellery & Accessories",
+            "link": "https://www.clubfactory.com/amp/",
+            "success_ratio": "70",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Club_Factory_Logo.jpg",
+            "heading": "Club Factory Voucher",
+            "subtext": "Coupon Id - CLUBFACTORY11"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM15",
+            "text": "Upto 50% Off on Popular Destinations",
+            "link": "https://www.booking.com/",
+            "success_ratio": "70",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM15"
+        },
+        {
+            "category": "Bills",
+            "coupon": "FREECHARGE03",
+            "text": "Pay Electricity Bills in Few Easy Steps with FreeCharge",
+            "link": "https://www.freecharge.in/",
+            "success_ratio": "71",
+            "logo": "https://cdn.freelogovectors.net/wp-content/uploads/2019/02/freecharge-logo.png",
+            "heading": "Freecharge Recharge Coupon",
+            "subtext": "Coupon Id - FREECHARGE03"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS04",
+            "text": "Upto 66% Off on Biscuits, Snacks & Chocolates",
+            "link": "https://grofers.com/",
+            "success_ratio": "71",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS04"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY32",
+            "text": "Order Your Groceries and Daily Essentials from Zomato Market",
+            "link": "https://www.zomato.com/",
+            "success_ratio": "71",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY32"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL02",
+            "text": "299 Store: Deals Under Rs. 299",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "71",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL02"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL19",
+            "text": "Kitchen Dhamaka Offers: Upto 70% Off on Kitchen Essentials",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "71",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL19"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL20",
+            "text": "Upto 60% Off on Smart Kitchen Appliances",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "71",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL20"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES05",
+            "text": "Best Selling Fashion: Upto 80% Off on Clothing, Footwear & Accessories",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "71",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES05"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA16",
+            "text": "Hot Pick for Today: Flat 60% on Everything",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "71",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA16"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA42",
+            "text": "Upto 70% Off on Watches & Sunglasses",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "71",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA42"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART06",
+            "text": "AprilOffer: Flat 20% Off on Designer Sunglasses",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "71",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART06"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS12",
+            "text": "10% Upto Rs. 75 Cashback on Orders Paid via Freecharge (1st Transaction)",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "72",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS12"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY33",
+            "text": "Trending Restaurants Around You at the Best Prices",
+            "link": "https://www.zomato.com/",
+            "success_ratio": "72",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY33"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA15",
+            "text": "Top Styles under Rs. 799",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "72",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA15"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA36",
+            "text": "Bag It Now: Minimum 40% Off on Backpacks, Handbags & More",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "72",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA36"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA37",
+            "text": "Upto 40-70% Off on Winter Wear",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "72",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA37"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "CLUBFACTORY13",
+            "text": "Upto 80% Off on Women's Hoodies",
+            "link": "https://www.clubfactory.com/amp/",
+            "success_ratio": "72",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Club_Factory_Logo.jpg",
+            "heading": "Club Factory Voucher",
+            "subtext": "Coupon Id - CLUBFACTORY13"
+        },
+        {
+            "category": "Bills",
+            "coupon": "VODAFONE05",
+            "text": "70 Days Unlimited Calls + 1.5GB Data/Day + Free Vodafone Play & ZEE5 Subscription at Rs. 499",
+            "link": "https://www.vodafone.in/",
+            "success_ratio": "73",
+            "logo": "https://www.freepnglogos.com/uploads/vodafone-png-logo/vodafone-logo-clarify-business-development-16.png",
+            "heading": "Vodafone Recharge Coupon",
+            "subtext": "Coupon Id - VODAFONE05"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET02",
+            "text": "BB Star Members Exclusive: Free Deliveries, Cashbacks, Offers and Discounts from Popular Banks",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "73",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET02"
+        },
+        {
+            "category": "Food",
+            "coupon": "MCDONALD'S06",
+            "text": "New McSpicy Chicken Sharers Starting from Rs. 360",
+            "link": "https://www.mcdonaldsindia.com/",
+            "success_ratio": "73",
+            "logo": "https://webstockreview.net/images/mcdonalds-clipart-icon-12.png",
+            "heading": "McDonald's Coupon",
+            "subtext": "Coupon Id - MCDONALD'S06"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY17",
+            "text": "Swiggy Exclusives: Upto 15% Off on Restaurants",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "73",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY17"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES17",
+            "text": "Fashion Gateway: Minimum 70% Off on Men's Jeans",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "73",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES17"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA14",
+            "text": "The Loot Store: Everything Under Rs. 599",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "73",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA14"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP10",
+            "text": "GoAir Sale: Domestic Fares Starting at Rs. 945 only + Free Rescheduling",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "73",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP10"
+        },
+        {
+            "category": "Bills",
+            "coupon": "JIO07",
+            "text": "Reliance Jio Postpaid Plans Starting at Rs. 199",
+            "link": "https://www.jio.com/",
+            "success_ratio": "74",
+            "logo": "https://cdn.iconscout.com/icon/free/png-512/jio-2363161-1970123.png",
+            "heading": "Jio Recharge Coupon",
+            "subtext": "Coupon Id - JIO07"
+        },
+        {
+            "category": "Bills",
+            "coupon": "BSNL02",
+            "text": "Pay Your Phone Bills Easily",
+            "link": "https://www.bsnl.co.in/",
+            "success_ratio": "74",
+            "logo": "https://seeklogo.com/images/B/bsnl-logo-1C70BCC171-seeklogo.com.png",
+            "heading": "BSNL Recharge Voucher",
+            "subtext": "Coupon Id - BSNL02"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "DISNEY+HOTSTAR02",
+            "text": "Subscribe to Disney+ Hotstar Premium at Rs.  Rs. 1,499/Yr",
+            "link": "https://www.hotstar.com/in/disneyplus",
+            "success_ratio": "74",
+            "logo": "https://i.gadgets360cdn.com/large/disney_plus_hotstar_logo_1583901149861.jpg",
+            "heading": "Disney+ Hotstar Coupon",
+            "subtext": "Coupon Id - DISNEY+HOTSTAR02"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET09",
+            "text": "10% - 15% Off on Select Products",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "74",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET09"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET30",
+            "text": "Upto 20% Off on Hair Care Products",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "74",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET30"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC04",
+            "text": "KFC 4+4: Buy 4 Pc Hot & Crispy and Get 4 Pc Strips Free",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "74",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC04"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM23",
+            "text": "Upto Rs. 3000 Cashback on Fashion Vouchers From Paytm",
+            "link": "https://paytm.com/",
+            "success_ratio": "74",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM23"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES22",
+            "text": "Get Fit Store: Fitness Accessories & Equipment starting at Rs. 99",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "74",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES22"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA24",
+            "text": "Upto 70% Off on MANGO",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "74",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA24"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA35",
+            "text": "The Hot List: Upto 80% Off on Dresses, Tees, Sweaters, Jackets & More",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "74",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA35"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART15",
+            "text": "AprilOffer: 2 pairs of AIR eyeglasses for Rs.1500 with Lenses",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "74",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART15"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO04",
+            "text": "Min 40% Off on Levi's",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "74",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO04"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES01",
+            "text": "ShopClues Countdown Deals: Upto 85% Off on Fashion, Home Decor & Electronics",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "75",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES01"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA13",
+            "text": "Upto 60% Off on Puma",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "76",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA13"
+        },
+        {
+            "category": "Bills",
+            "coupon": "VODAFONE03",
+            "text": "28 Days Unlimited Calls + 3GB Data/Day + Free Vodafone Play & ZEE5 Subscription at Rs. 249",
+            "link": "https://www.vodafone.in/",
+            "success_ratio": "77",
+            "logo": "https://www.freepnglogos.com/uploads/vodafone-png-logo/vodafone-logo-clarify-business-development-16.png",
+            "heading": "Vodafone Recharge Coupon",
+            "subtext": "Coupon Id - VODAFONE03"
+        },
+        {
+            "category": "Bills",
+            "coupon": "JIO06",
+            "text": "12 Months Unlimited Jio Voice + Data at Rs. 2121",
+            "link": "https://www.jio.com/",
+            "success_ratio": "77",
+            "logo": "https://cdn.iconscout.com/icon/free/png-512/jio-2363161-1970123.png",
+            "heading": "Jio Recharge Coupon",
+            "subtext": "Coupon Id - JIO06"
+        },
+        {
+            "category": "Bills",
+            "coupon": "FREECHARGE01",
+            "text": "Easy DTH Recharges with FreeCharge",
+            "link": "https://www.freecharge.in/",
+            "success_ratio": "77",
+            "logo": "https://cdn.freelogovectors.net/wp-content/uploads/2019/02/freecharge-logo.png",
+            "heading": "Freecharge Recharge Coupon",
+            "subtext": "Coupon Id - FREECHARGE01"
+        },
+        {
+            "category": "Bills",
+            "coupon": "AIRTEL02",
+            "text": "Enjoy Unlimited Calls, Netflix andAmazon Prime Subscription with Infinity Plans",
+            "link": "https://www.airtel.in/",
+            "success_ratio": "77",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/07/Airtel_logo_logotype_emblem.png",
+            "heading": "Airtel Recharge",
+            "subtext": "Coupon Id - AIRTEL02"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "DISNEY+HOTSTAR06",
+            "text": "Watch The Lion King now Streaming on Disney+ Hotstar",
+            "link": "https://www.hotstar.com/in/disneyplus",
+            "success_ratio": "77",
+            "logo": "https://i.gadgets360cdn.com/large/disney_plus_hotstar_logo_1583901149861.jpg",
+            "heading": "Disney+ Hotstar Coupon",
+            "subtext": "Coupon Id - DISNEY+HOTSTAR06"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET14",
+            "text": "Upto 12% Off on Pet Care",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "77",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET14"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET29",
+            "text": "Upto 30% Off on Baby Diapers",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "77",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET29"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS17",
+            "text": "Upto 67% Off on Noodles, Sauces & Instant Foods",
+            "link": "https://grofers.com/",
+            "success_ratio": "77",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS17"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC09",
+            "text": "New Smoky Red Grilled Starting at Rs. 110",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "77",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC09"
+        },
+        {
+            "category": "Food",
+            "coupon": "MCDONALD'S04",
+            "text": "McSaver McVeggie Meals Starting from Rs. 249",
+            "link": "https://www.mcdonaldsindia.com/",
+            "success_ratio": "77",
+            "logo": "https://webstockreview.net/images/mcdonalds-clipart-icon-12.png",
+            "heading": "McDonald's Coupon",
+            "subtext": "Coupon Id - MCDONALD'S04"
+        },
+        {
+            "category": "Food",
+            "coupon": "MCDONALD'S05",
+            "text": "Stay at Home Combos for 3 Starting at Rs. 659",
+            "link": "https://www.mcdonaldsindia.com/",
+            "success_ratio": "77",
+            "logo": "https://webstockreview.net/images/mcdonalds-clipart-icon-12.png",
+            "heading": "McDonald's Coupon",
+            "subtext": "Coupon Id - MCDONALD'S05"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES09",
+            "text": "Re-New Gadget Sale: Upto 75% Off on Unboxed & Refurbished Laptops, Mobiles & More",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "77",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES09"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES16",
+            "text": "Jeans Fest: Upto 80% Off on Jeans",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "77",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES16"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA03",
+            "text": "Upto 30% Off on Spring Summer' 20 Collection",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "77",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA03"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA11",
+            "text": "Minimum 40% Off on Top Styles under Rs. 999",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "77",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA11"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA12",
+            "text": "Best Styles under Rs. 299",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "77",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA12"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART01",
+            "text": "Flat 30% Off on Sanitised Eyewear Delivered to Your Doorstep",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "77",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART01"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART04",
+            "text": "Hand Sanitizers Starting at Rs. 225",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "77",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART04"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO09",
+            "text": "Flat 50-70% Off on Wrangler",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "77",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO09"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO18",
+            "text": "Flat 50% Off on T-Shirts",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "77",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO18"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO19",
+            "text": "Minimum Rs. 2000 Off on Apparel, Footwear & More",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "77",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO19"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP09",
+            "text": "Zero Cancellation Charges on Domestic Flights Starting at Rs. 99",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "77",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP09"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM14",
+            "text": "Extra Savings on Corporate Bookings",
+            "link": "https://www.booking.com/",
+            "success_ratio": "77",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM14"
+        },
+        {
+            "category": "Bills",
+            "coupon": "VODAFONE02",
+            "text": "Extra 4G Data, Unlimited Voice Calls, Cashback and More with Every Vodafone Recharge",
+            "link": "https://www.vodafone.in/",
+            "success_ratio": "78",
+            "logo": "https://www.freepnglogos.com/uploads/vodafone-png-logo/vodafone-logo-clarify-business-development-16.png",
+            "heading": "Vodafone Recharge Coupon",
+            "subtext": "Coupon Id - VODAFONE02"
+        },
+        {
+            "category": "Bills",
+            "coupon": "PHONEPE02",
+            "text": "Win Upto Rs.1000 Cashback on your Broadband Bill Payment",
+            "link": "https://www.phonepe.com/",
+            "success_ratio": "78",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2018/11/phone-pe.png",
+            "heading": "PhonePe Voucher",
+            "subtext": "Coupon Id - PHONEPE02"
+        },
+        {
+            "category": "Bills",
+            "coupon": "BSNL01",
+            "text": "Free Video Conferencing Service to BSNL Enterprise and Retail Customers",
+            "link": "https://www.bsnl.co.in/",
+            "success_ratio": "78",
+            "logo": "https://seeklogo.com/images/B/bsnl-logo-1C70BCC171-seeklogo.com.png",
+            "heading": "BSNL Recharge Voucher",
+            "subtext": "Coupon Id - BSNL01"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET08",
+            "text": "Upto 50% Off on Winter Skin Care",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "78",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET08"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS05",
+            "text": "Domino's Pizza Mania: Pepper Barbecue Chicken Pizza at Rs. 105",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "78",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS05"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "CLUBFACTORY06",
+            "text": "Upto 75% Off on Headphones",
+            "link": "https://www.clubfactory.com/amp/",
+            "success_ratio": "78",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Club_Factory_Logo.jpg",
+            "heading": "Club Factory Voucher",
+            "subtext": "Coupon Id - CLUBFACTORY06"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL18",
+            "text": "Power Banks Starting at Rs. 399",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "79",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL18"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES15",
+            "text": "Upto 80% Off on Refurbished Nokia Mobiles",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "79",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES15"
+        },
+        {
+            "category": "Bills",
+            "coupon": "VODAFONE01",
+            "text": "84 Days Unlimited Calls + 3GB Data/Day + Free Vodafone Play & ZEE5 Subscription at Rs. 599",
+            "link": "https://www.vodafone.in/",
+            "success_ratio": "80",
+            "logo": "https://www.freepnglogos.com/uploads/vodafone-png-logo/vodafone-logo-clarify-business-development-16.png",
+            "heading": "Vodafone Recharge Coupon",
+            "subtext": "Coupon Id - VODAFONE01"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "PAYTM33",
+            "text": "Book Tickets For your Favorite Amusement Parks & Adventure Zones",
+            "link": "https://paytm.com/",
+            "success_ratio": "80",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Coupon",
+            "subtext": "Coupon Id - PAYTM33"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS01",
+            "text": "Domino's Pizza Mania: 2 Regular Pizzas at Rs. 95 Each",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "80",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS01"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY31",
+            "text": "Stay Safe by using the Contactless Delivery Option for your Order",
+            "link": "https://www.zomato.com/",
+            "success_ratio": "80",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY31"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL17",
+            "text": "Backpacks & Laptop Bags under Rs. 1,500",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "80",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL17"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA10",
+            "text": "699 Store: Fashion Under Rs. 699",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "80",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA10"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART02",
+            "text": "April Offer: Lenskart Gift cards worth Rs.1000",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "80",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART02"
+        },
+        {
+            "category": "Travel",
+            "coupon": "PAYTM32",
+            "text": "Upto Rs. 1500 Cashback on Uber Vouchers",
+            "link": "https://paytm.com/",
+            "success_ratio": "80",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM32"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "DISNEY+HOTSTAR01",
+            "text": "Disney+ Hotstar VIP Subscription at Rs.399 Yearly",
+            "link": "https://www.hotstar.com/in/disneyplus",
+            "success_ratio": "82",
+            "logo": "https://i.gadgets360cdn.com/large/disney_plus_hotstar_logo_1583901149861.jpg",
+            "heading": "Disney+ Hotstar Coupon",
+            "subtext": "Coupon Id - DISNEY+HOTSTAR01"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS07",
+            "text": "Upto Rs.300 Cashback on 1st Transaction via Paytm (Dominos' App only) (New Paytm Users)",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "82",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS07"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA09",
+            "text": "Upto 50% Off on Fashion by Marks & Spencer",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "82",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA09"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART14",
+            "text": "AprilOffer: Reading Eyeglasses Starting at Just Rs.399",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "82",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART14"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "CLUBFACTORY08",
+            "text": "Upto 85% Off on Sports & Fitness Equipments",
+            "link": "https://www.clubfactory.com/amp/",
+            "success_ratio": "82",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Club_Factory_Logo.jpg",
+            "heading": "Club Factory Voucher",
+            "subtext": "Coupon Id - CLUBFACTORY08"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS16",
+            "text": "Upto 25% Off on Vegetables & Fruits",
+            "link": "https://grofers.com/",
+            "success_ratio": "83",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS16"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES04",
+            "text": "ShopClues Exclusive Brand Sale: Upto 75% Off on Fashion, Home Decor & Electronics",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "83",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES04"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART03",
+            "text": "AprilOffer: Buy 1 Get 1 Free on Power Sunglasses",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "83",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART03"
+        },
+        {
+            "category": "Bills",
+            "coupon": "JIO05",
+            "text": "Unlimited Data + Calling starting at Rs. 98",
+            "link": "https://www.jio.com/",
+            "success_ratio": "84",
+            "logo": "https://cdn.iconscout.com/icon/free/png-512/jio-2363161-1970123.png",
+            "heading": "Jio Recharge Coupon",
+            "subtext": "Coupon Id - JIO05"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET28",
+            "text": "Bigbasket Travel Store: Best Deals on Travel Essential Products",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "84",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET28"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM17",
+            "text": "Upto Rs. 3600 Cashback on Jockey Vouchers",
+            "link": "https://paytm.com/",
+            "success_ratio": "84",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM17"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL16",
+            "text": "Great Deals on Mobile, Laptop & Gadgets",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "84",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL16"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES03",
+            "text": "Triple Value Sale: Select Products from Rs.79 to Rs. 199",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "84",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES03"
+        },
+        {
+            "category": "Bills",
+            "coupon": "JIO04",
+            "text": "4G Data Vouchers: 6GB Data + 500 Min Talktime at Rs. 51 or 12GB Data + 1000 Min Talktime at Rs. 101",
+            "link": "https://www.jio.com/",
+            "success_ratio": "85",
+            "logo": "https://cdn.iconscout.com/icon/free/png-512/jio-2363161-1970123.png",
+            "heading": "Jio Recharge Coupon",
+            "subtext": "Coupon Id - JIO04"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET27",
+            "text": "Kissan Spreads, Sauces, Ketchup and more Starting at Rs. 30",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "85",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET27"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL15",
+            "text": "Accessories by Logitech, Zebronics & more Starting at Rs. 195",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "85",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL15"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES14",
+            "text": "T-Shirts for Men at Flat Rs. 299",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "85",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES14"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART13",
+            "text": "Buy 1 Get 1 Free for 365 days with Lenskart Gold Membership",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "85",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART13"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM13",
+            "text": "Exciting Deals on Hotels in Asia",
+            "link": "https://www.booking.com/",
+            "success_ratio": "85",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM13"
+        },
+        {
+            "category": "Bills",
+            "coupon": "JIO08",
+            "text": "2 GB Everyday + Unlimited Calling starting at Rs. 249/month",
+            "link": "https://www.jio.com/",
+            "success_ratio": "86",
+            "logo": "https://cdn.iconscout.com/icon/free/png-512/jio-2363161-1970123.png",
+            "heading": "Jio Recharge Coupon",
+            "subtext": "Coupon Id - JIO08"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA34",
+            "text": "Men's Footwear Bonanza: Upto 70% Off on Men's Footwear",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "86",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA34"
+        },
+        {
+            "category": "Travel",
+            "coupon": "ZOOMCAR11",
+            "text": "Book a New Car with ZAP at Subscription of Rs. 2100",
+            "link": "https://www.zoomcar.com/",
+            "success_ratio": "86",
+            "logo": "https://cdn.statically.io/img/pool.img.aptoide.com/split-store/8fd6de57984e6e6c2b849be49a73a146_icon.png",
+            "heading": "ZoomCar Coupon",
+            "subtext": "Coupon Id - ZOOMCAR11"
+        },
+        {
+            "category": "Bills",
+            "coupon": "AIRTEL01",
+            "text": "Airtel Recharge for Rs. 199 and Get Unlimited Local/STD Calls, 100 SMS Daily and 1.5 GB/Day",
+            "link": "https://www.airtel.in/",
+            "success_ratio": "87",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/07/Airtel_logo_logotype_emblem.png",
+            "heading": "Airtel Recharge",
+            "subtext": "Coupon Id - AIRTEL01"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET13",
+            "text": "Wedding Gifts: Upto 45% Off on Crockery & Glassware Collection",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "87",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET13"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC01",
+            "text": "KFC Celebration Bucket at Rs. 599",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "87",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC01"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART12",
+            "text": "AprilOffer: Buy Eyeglasses with Anti-Glare Lenses starting at Rs.999",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "87",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART12"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO01",
+            "text": "Everything On Sale Sale: 40-80% Off on Fashion",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "87",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO01"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL14",
+            "text": "Headphones & Earphones under Rs. 999",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "88",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL14"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA32",
+            "text": "Denim Fest: 40-80% Off on Jeans for Men",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "88",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA32"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA33",
+            "text": "Upto 80% Off on Saree Collection",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "88",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA33"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM12",
+            "text": "Upto 50% Off on Villas in India and Abroad",
+            "link": "https://www.booking.com/",
+            "success_ratio": "88",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM12"
+        },
+        {
+            "category": "Travel",
+            "coupon": "REDBUS03",
+            "text": "Pay Using Ola Money Postpaid and Get 20% Upto Rs 500 Cashback on Bus Bookings",
+            "link": "https://www.redbus.in/",
+            "success_ratio": "88",
+            "logo": "https://cdn-images-1.medium.com/max/1200/1*dei7jVP89gp7tDNViaqK_A.png",
+            "heading": "Redbus Discount Coupon",
+            "subtext": "Coupon Id - REDBUS03"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "AMZN PRIME06",
+            "text": "Get Music and Standup Comedy on Amazon Prime Video",
+            "link": "https://www.primevideo.com/",
+            "success_ratio": "89",
+            "logo": "https://smallimg.pngkey.com/png/small/591-5914371_amazon-prime-video.png",
+            "heading": "Prime Video",
+            "subtext": "Coupon Id - AMZN PRIME06"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART23",
+            "text": "Get the Flipkart Plus Annual Membership at Zero Fee",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "89",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART23"
+        },
+        {
+            "category": "Bills",
+            "coupon": "VODAFONE04",
+            "text": "28 Days Unlimited Calls + 2GB Data/Day + Free Vodafone Play & ZEE5 Subscription at Rs. 299",
+            "link": "https://www.vodafone.in/",
+            "success_ratio": "90",
+            "logo": "https://www.freepnglogos.com/uploads/vodafone-png-logo/vodafone-logo-clarify-business-development-16.png",
+            "heading": "Vodafone Recharge Coupon",
+            "subtext": "Coupon Id - VODAFONE04"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "DISNEY+HOTSTAR04",
+            "text": "Watch Angrezi Medium now Streaming on Disney+ Hotstar",
+            "link": "https://www.hotstar.com/in/disneyplus",
+            "success_ratio": "90",
+            "logo": "https://i.gadgets360cdn.com/large/disney_plus_hotstar_logo_1583901149861.jpg",
+            "heading": "Disney+ Hotstar Coupon",
+            "subtext": "Coupon Id - DISNEY+HOTSTAR04"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET01",
+            "text": "Ramadan Store: Dry Fruits, Flavored Drinks, Staples, Fruits & Veggies, Fresh Meat at Great Prices",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "90",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET01"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS02",
+            "text": "Domino's Medium Pizzas Starting at Rs. 305",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "90",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS02"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS03",
+            "text": "50% Cashback upto Rs.100 on a Minimum Order of ₹200 Via Amazon Pay",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "90",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS03"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES13",
+            "text": "The Ethnic Store: Kurtis, Sarees & More Starting at Rs. 399",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "90",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES13"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART02",
+            "text": "Easy DTH Recharges with Flipkart App",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "90",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART02"
+        },
+        {
+            "category": "Bills",
+            "coupon": "JIO03",
+            "text": "Upto 25% Off on Jio Voice + Data Plans",
+            "link": "https://www.jio.com/",
+            "success_ratio": "91",
+            "logo": "https://cdn.iconscout.com/icon/free/png-512/jio-2363161-1970123.png",
+            "heading": "Jio Recharge Coupon",
+            "subtext": "Coupon Id - JIO03"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "GAANA02",
+            "text": "Gaana Student Pack: 1 Year Subscription at Rs. 149",
+            "link": "https://gaana.com/",
+            "success_ratio": "91",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Gaana-Logo-715x267.png",
+            "heading": "Gaana Subscription Coupon",
+            "subtext": "Coupon Id - GAANA02"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET26",
+            "text": "Refer Your Friends & Earn Rs. 100 in BigBasket Wallet",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "91",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET26"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS15",
+            "text": "Upto 56% Off on Beverages",
+            "link": "https://grofers.com/",
+            "success_ratio": "91",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS15"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART11",
+            "text": "AprilOffer: Buy Eyeglasses with Lenses starting at Rs.699",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "91",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART11"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART06",
+            "text": "Upto 70% Off on Shavers",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "91",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART06"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM09",
+            "text": "Off Peak Deals: Upto 20% Off on Most-Visited Tourist Destinations",
+            "link": "https://www.booking.com/",
+            "success_ratio": "91",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM09"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM10",
+            "text": "Great Deals on Properties in Bangalore",
+            "link": "https://www.booking.com/",
+            "success_ratio": "91",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM10"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM11",
+            "text": "Great Deals on Properties in Pune",
+            "link": "https://www.booking.com/",
+            "success_ratio": "91",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM11"
+        },
+        {
+            "category": "Travel",
+            "coupon": "ZOOMCAR10",
+            "text": "Pay for Your Own Fuel and Ride at Rs. 40/Hour",
+            "link": "https://www.zoomcar.com/",
+            "success_ratio": "91",
+            "logo": "https://cdn.statically.io/img/pool.img.aptoide.com/split-store/8fd6de57984e6e6c2b849be49a73a146_icon.png",
+            "heading": "ZoomCar Coupon",
+            "subtext": "Coupon Id - ZOOMCAR10"
+        },
+        {
+            "category": "Bills",
+            "coupon": "JIO02",
+            "text": "84 Days Unlimited Voice + 126 GB Data at Rs. 555",
+            "link": "https://www.jio.com/",
+            "success_ratio": "92",
+            "logo": "https://cdn.iconscout.com/icon/free/png-512/jio-2363161-1970123.png",
+            "heading": "Jio Recharge Coupon",
+            "subtext": "Coupon Id - JIO02"
+        },
+        {
+            "category": "Bills",
+            "coupon": "AMZN PAY02",
+            "text": "Extra 25% Off Upto Rs.100 on Recharges and Bill Payment with Bank of Baroda Credit Card",
+            "link": "https://www.amazon.in/",
+            "success_ratio": "92",
+            "logo": "http://pngimg.com/uploads/amazon/amazon_PNG27.png",
+            "heading": "Amazon Pay",
+            "subtext": "Coupon Id - AMZN PAY02"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "DISNEY+HOTSTAR03",
+            "text": "Monthly Disney+ Hotstar Premium Subscription at Rs.299",
+            "link": "https://www.hotstar.com/in/disneyplus",
+            "success_ratio": "92",
+            "logo": "https://i.gadgets360cdn.com/large/disney_plus_hotstar_logo_1583901149861.jpg",
+            "heading": "Disney+ Hotstar Coupon",
+            "subtext": "Coupon Id - DISNEY+HOTSTAR03"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "AMZN PRIME07",
+            "text": "Watch Adventure, Action, Comedy Movies all in One Place on Amazon Prime Video",
+            "link": "https://www.primevideo.com/",
+            "success_ratio": "92",
+            "logo": "https://smallimg.pngkey.com/png/small/591-5914371_amazon-prime-video.png",
+            "heading": "Prime Video",
+            "subtext": "Coupon Id - AMZN PRIME07"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET12",
+            "text": "Healthy Baked Snacks starting at Rs. 15",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "92",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET12"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET25",
+            "text": "Upto 35% Off on Baby Care Range",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "92",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET25"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS14",
+            "text": "Upto 50% Off on Baby & Kids Care",
+            "link": "https://grofers.com/",
+            "success_ratio": "92",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS14"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART01",
+            "text": "Easy Mobile Recharges with Flipkart App",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "92",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART01"
+        },
+        {
+            "category": "Bills",
+            "coupon": "AMZN PAY01",
+            "text": "100% Cashback Upto Rs. 75 on Mobile Recharge/Bill Payment (First Transaction, Prime Users)",
+            "link": "https://www.amazon.in/",
+            "success_ratio": "94",
+            "logo": "http://pngimg.com/uploads/amazon/amazon_PNG27.png",
+            "heading": "Amazon Pay",
+            "subtext": "Coupon Id - AMZN PAY01"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "DISNEY+HOTSTAR05",
+            "text": "Watch all seasons of The Simpsons now Streaming on Disney+ Hotstar",
+            "link": "https://www.hotstar.com/in/disneyplus",
+            "success_ratio": "94",
+            "logo": "https://i.gadgets360cdn.com/large/disney_plus_hotstar_logo_1583901149861.jpg",
+            "heading": "Disney+ Hotstar Coupon",
+            "subtext": "Coupon Id - DISNEY+HOTSTAR05"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET11",
+            "text": "Beat the Heat: Upto 20% Off on Beverages",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "94",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET11"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART03",
+            "text": "Upto 60% Off on Grocery",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "94",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART03"
+        },
+        {
+            "category": "Bills",
+            "coupon": "FREECHARGE02",
+            "text": "Quick and Easy Bill Payments with FreeCharge",
+            "link": "https://www.freecharge.in/",
+            "success_ratio": "95",
+            "logo": "https://cdn.freelogovectors.net/wp-content/uploads/2019/02/freecharge-logo.png",
+            "heading": "Freecharge Recharge Coupon",
+            "subtext": "Coupon Id - FREECHARGE02"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS03",
+            "text": "Upto 73% Off on Grocery & Staples",
+            "link": "https://grofers.com/",
+            "success_ratio": "95",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS03"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS12",
+            "text": "Upto 64% Off on Personal Care Products",
+            "link": "https://grofers.com/",
+            "success_ratio": "95",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS12"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS13",
+            "text": "Upto 15% Off on Pet Care",
+            "link": "https://grofers.com/",
+            "success_ratio": "95",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS13"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS04",
+            "text": "Domino's Pizza Mania: Regular Pizza Starting From Rs. 59",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "95",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS04"
+        },
+        {
+            "category": "Food",
+            "coupon": "DOMINOS06",
+            "text": "Order your Favorite Pizza with Domino's Zero Contact Ordering",
+            "link": "https://www.dominos.co.in/",
+            "success_ratio": "95",
+            "logo": "https://www.freepnglogos.com/uploads/dominos-png-logo/blue-wave-pressure-washing-dominos-png-logo-0.png",
+            "heading": "Dominos Coupon",
+            "subtext": "Coupon Id - DOMINOS06"
+        },
+        {
+            "category": "Food",
+            "coupon": "MCDONALD'S02",
+            "text": "McSaver Big Spicy Chicken Wrap Meal Starting from Rs. 342",
+            "link": "https://www.mcdonaldsindia.com/",
+            "success_ratio": "95",
+            "logo": "https://webstockreview.net/images/mcdonalds-clipart-icon-12.png",
+            "heading": "McDonald's Coupon",
+            "subtext": "Coupon Id - MCDONALD'S02"
+        },
+        {
+            "category": "Food",
+            "coupon": "MCDONALD'S03",
+            "text": "Mexican Cheesy Fries + Medium Coke Starting from Rs. 152",
+            "link": "https://www.mcdonaldsindia.com/",
+            "success_ratio": "95",
+            "logo": "https://webstockreview.net/images/mcdonalds-clipart-icon-12.png",
+            "heading": "McDonald's Coupon",
+            "subtext": "Coupon Id - MCDONALD'S03"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY35",
+            "text": "Domino's Pizza Offer: 2 Medium Pizzas at Rs. 199 Each",
+            "link": "https://www.zomato.com/",
+            "success_ratio": "95",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY35"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM22",
+            "text": "Upto Rs. 500 Cashback on Chayoos Vouchers",
+            "link": "https://paytm.com/",
+            "success_ratio": "95",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM22"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES11",
+            "text": "Shopclues Super Value Packs: Combo Deals on Daily Essentials",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "95",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES11"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES12",
+            "text": "Shopclues Health & Fitness Corner: Daily Essentials Starting Rs. 99",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "95",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES12"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES21",
+            "text": "Upto 80% Off on 3D Printed Bedsheets",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "95",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES21"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA31",
+            "text": "Denim Fest: 40-70% Off on Jeans for Women",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "95",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA31"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "CLUBFACTORY07",
+            "text": "Upto 80% Off on Watches",
+            "link": "https://www.clubfactory.com/amp/",
+            "success_ratio": "95",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Club_Factory_Logo.jpg",
+            "heading": "Club Factory Voucher",
+            "subtext": "Coupon Id - CLUBFACTORY07"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO16",
+            "text": "Under 1299 Store: Men's Clothing Under Rs. 1299",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "95",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO16"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO17",
+            "text": "Min 50% Off on Footwear",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "95",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO17"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM07",
+            "text": "Bed And Breakfast (B&B) Bookings starting at Rs. 2,307",
+            "link": "https://www.booking.com/",
+            "success_ratio": "95",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM07"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM08",
+            "text": "Off-Peak Deals in Istanbul starting at Rs. 1414",
+            "link": "https://www.booking.com/",
+            "success_ratio": "95",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM08"
+        },
+        {
+            "category": "Travel",
+            "coupon": "ZOOMCAR09",
+            "text": "Book Zoomcare Sanitised Self-Drive Cars starting at Rs. 800 per Day",
+            "link": "https://www.zoomcar.com/",
+            "success_ratio": "95",
+            "logo": "https://cdn.statically.io/img/pool.img.aptoide.com/split-store/8fd6de57984e6e6c2b849be49a73a146_icon.png",
+            "heading": "ZoomCar Coupon",
+            "subtext": "Coupon Id - ZOOMCAR09"
+        },
+        {
+            "category": "Bills",
+            "coupon": "PHONEPE01",
+            "text": "Easy Mobile Recharges with PhonePe",
+            "link": "https://www.phonepe.com/",
+            "success_ratio": "96",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2018/11/phone-pe.png",
+            "heading": "PhonePe Voucher",
+            "subtext": "Coupon Id - PHONEPE01"
+        },
+        {
+            "category": "Bills",
+            "coupon": "JIO01",
+            "text": "Work from Home Pack: 2GB Data per Day for 51 Days at Rs. 251",
+            "link": "https://www.jio.com/",
+            "success_ratio": "96",
+            "logo": "https://cdn.iconscout.com/icon/free/png-512/jio-2363161-1970123.png",
+            "heading": "Jio Recharge Coupon",
+            "subtext": "Coupon Id - JIO01"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET07",
+            "text": "Upto 65% Off on Household Products",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "96",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET07"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET24",
+            "text": "Upto 25% Off at Bigbasket Breakfast Store",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "96",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET24"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS11",
+            "text": "Kissan 1kg Tomato Sauce Bottle at Rs. 126",
+            "link": "https://grofers.com/",
+            "success_ratio": "96",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS11"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL01",
+            "text": "The Wedding Store: Upto 70% Off on Wedding Essentials",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "96",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL01"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA07",
+            "text": "Minimum 25% Off on Fashion by Levi's",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "96",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA07"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA08",
+            "text": "Upto 40-70% Off on your Favourite Styles from UCB",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "96",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA08"
+        },
+        {
+            "category": "Bills",
+            "coupon": "IDEA02",
+            "text": "Unlimited 4G Data And Voice Plans starting at Rs. 19",
+            "link": "https://www.ideacellular.com/",
+            "success_ratio": "98",
+            "logo": "https://brandslogo.net/wp-content/uploads/2012/10/idea-cellular-vector-logo.png",
+            "heading": "Idea Recharge Coupon",
+            "subtext": "Coupon Id - IDEA02"
+        },
+        {
+            "category": "Bills",
+            "coupon": "MOBIKWIK15",
+            "text": "Save Rs.1000 by paying with MobiKwik at HoiChoi Entertainments",
+            "link": "https://www.mobikwik.com/",
+            "success_ratio": "98",
+            "logo": "https://www.neighbium.com/wp-content/uploads/2016/10/MobiKwik-Logo-png.png",
+            "heading": "Mobikwik Discount Coupon",
+            "subtext": "Coupon Id - MOBIKWIK15"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET06",
+            "text": "Lowest Prices on Immunity Boosters",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "98",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET06"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET23",
+            "text": "Lowest Prices in the City on the Top 500 Products",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "98",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET23"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL13",
+            "text": "Upto 60% Off on Makeup and Beauty Products",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "98",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL13"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA30",
+            "text": "Women's Footwear Bonanza: Upto 70% Off on Women's Footwear",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "98",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA30"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART10",
+            "text": "AprilOffer: Buy 1 Get 1 Fee on Vincent Chase Sunglasses",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "98",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART10"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "PAYTM31",
+            "text": "Upto Rs. 1000 Cashback on Kidzania Theme Park Vouchers",
+            "link": "https://paytm.com/",
+            "success_ratio": "99",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Coupon",
+            "subtext": "Coupon Id - PAYTM31"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART05",
+            "text": "AprilOffer: Buy 1 Get 1 Free on Vincent Chase Eyeglasses",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "99",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART05"
+        },
+        {
+            "category": "Travel",
+            "coupon": "PAYTM16",
+            "text": "Buy & Recharge Fastag Online on Paytm + Upto 2.5% Cashback via Paytm",
+            "link": "https://paytm.com/",
+            "success_ratio": "99",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM16"
+        },
+        {
+            "category": "Bills",
+            "coupon": "VODAFONE06",
+            "text": "77 Days Unlimited Calls + 1.5GB Data/Day + Free Vodafone Play & ZEE5 Subscription at Rs. 555",
+            "link": "https://www.vodafone.in/",
+            "success_ratio": "100",
+            "logo": "https://www.freepnglogos.com/uploads/vodafone-png-logo/vodafone-logo-clarify-business-development-16.png",
+            "heading": "Vodafone Recharge Coupon",
+            "subtext": "Coupon Id - VODAFONE06"
+        },
+        {
+            "category": "Bills",
+            "coupon": "VODAFONE07",
+            "text": "56 Days Unlimited Calls + 3GB Data/Day + Free Vodafone Play & ZEE5 Subscription at Rs. 399",
+            "link": "https://www.vodafone.in/",
+            "success_ratio": "100",
+            "logo": "https://www.freepnglogos.com/uploads/vodafone-png-logo/vodafone-logo-clarify-business-development-16.png",
+            "heading": "Vodafone Recharge Coupon",
+            "subtext": "Coupon Id - VODAFONE07"
+        },
+        {
+            "category": "Bills",
+            "coupon": "IDEA01",
+            "text": "Extra 4G Data, Unlimited Voice Calls, Cashback and More with Every Recharge",
+            "link": "https://www.ideacellular.com/",
+            "success_ratio": "100",
+            "logo": "https://brandslogo.net/wp-content/uploads/2012/10/idea-cellular-vector-logo.png",
+            "heading": "Idea Recharge Coupon",
+            "subtext": "Coupon Id - IDEA01"
+        },
+        {
+            "category": "Bills",
+            "coupon": "MOBIKWIK14",
+            "text": "Save Rs.1000 by paying with MobiKwik at DishTV",
+            "link": "https://www.mobikwik.com/",
+            "success_ratio": "100",
+            "logo": "https://www.neighbium.com/wp-content/uploads/2016/10/MobiKwik-Logo-png.png",
+            "heading": "Mobikwik Discount Coupon",
+            "subtext": "Coupon Id - MOBIKWIK14"
+        },
+        {
+            "category": "Bills",
+            "coupon": "FREECHARGE04",
+            "text": "Landline Bill Payment Made Easy with FreeCharge",
+            "link": "https://www.freecharge.in/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freelogovectors.net/wp-content/uploads/2019/02/freecharge-logo.png",
+            "heading": "Freecharge Recharge Coupon",
+            "subtext": "Coupon Id - FREECHARGE04"
+        },
+        {
+            "category": "Bills",
+            "coupon": "AIRTEL03",
+            "text": "Recharge for Rs. 598 and Get Unlimited Local/STD Calls, 1.5 GB/Day Data for 84 Days",
+            "link": "https://www.airtel.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/07/Airtel_logo_logotype_emblem.png",
+            "heading": "Airtel Recharge",
+            "subtext": "Coupon Id - AIRTEL03"
+        },
+        {
+            "category": "Bills",
+            "coupon": "AIRTEL04",
+            "text": "Recharge for Rs. 249 and Get Unlimited Local/STD Calls, 1.5 GB/Day Data for 28 Days",
+            "link": "https://www.airtel.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/07/Airtel_logo_logotype_emblem.png",
+            "heading": "Airtel Recharge",
+            "subtext": "Coupon Id - AIRTEL04"
+        },
+        {
+            "category": "Bills",
+            "coupon": "AIRTEL05",
+            "text": "Recharge for Rs. 698 and Get Unlimited Local/STD Calls, 2 GB/Day Data for 84 Days",
+            "link": "https://www.airtel.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/07/Airtel_logo_logotype_emblem.png",
+            "heading": "Airtel Recharge",
+            "subtext": "Coupon Id - AIRTEL05"
+        },
+        {
+            "category": "Bills",
+            "coupon": "AIRTEL06",
+            "text": "Recharge for Rs. 449 and Get Unlimited Local/STD Calls, 2 GB/Day Data for 56 Days",
+            "link": "https://www.airtel.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/07/Airtel_logo_logotype_emblem.png",
+            "heading": "Airtel Recharge",
+            "subtext": "Coupon Id - AIRTEL06"
+        },
+        {
+            "category": "Bills",
+            "coupon": "AIRTEL07",
+            "text": "Recharge for Rs. 399 and Get Unlimited Local/STD Calls, 1.5 GB/Day Data for 56 Days",
+            "link": "https://www.airtel.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/07/Airtel_logo_logotype_emblem.png",
+            "heading": "Airtel Recharge",
+            "subtext": "Coupon Id - AIRTEL07"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "GAANA01",
+            "text": "1 Year Gaana+ Subscription at Rs. 399",
+            "link": "https://gaana.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Gaana-Logo-715x267.png",
+            "heading": "Gaana Subscription Coupon",
+            "subtext": "Coupon Id - GAANA01"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "GAANA03",
+            "text": "Gaana+ Subscription starting at Rs. 99/month",
+            "link": "https://gaana.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Gaana-Logo-715x267.png",
+            "heading": "Gaana Subscription Coupon",
+            "subtext": "Coupon Id - GAANA03"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "GAANA04",
+            "text": "Create Your Own Playlists on Gaana",
+            "link": "https://gaana.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Gaana-Logo-715x267.png",
+            "heading": "Gaana Subscription Coupon",
+            "subtext": "Coupon Id - GAANA04"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "GAANA05",
+            "text": "3 Months Gaana+ Subscription at Rs. 199",
+            "link": "https://gaana.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Gaana-Logo-715x267.png",
+            "heading": "Gaana Subscription Coupon",
+            "subtext": "Coupon Id - GAANA05"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "NETFLIX01",
+            "text": "Netflix Mobile Subscription at Rs.199/month",
+            "link": "https://www.netflix.com/in/",
+            "success_ratio": "100",
+            "logo": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",
+            "heading": "Netflix Coupon",
+            "subtext": "Coupon Id - NETFLIX01"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "NETFLIX02",
+            "text": "Netflix Premium Subscription at Rs.799/month",
+            "link": "https://www.netflix.com/in/",
+            "success_ratio": "100",
+            "logo": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",
+            "heading": "Netflix Coupon",
+            "subtext": "Coupon Id - NETFLIX02"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "NETFLIX03",
+            "text": "Netflix Basic Subscription at Rs.499/month",
+            "link": "https://www.netflix.com/in/",
+            "success_ratio": "100",
+            "logo": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",
+            "heading": "Netflix Coupon",
+            "subtext": "Coupon Id - NETFLIX03"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "NETFLIX04",
+            "text": "FRIENDS - Season 1 to 10 Now on Netflix",
+            "link": "https://www.netflix.com/in/",
+            "success_ratio": "100",
+            "logo": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",
+            "heading": "Netflix Coupon",
+            "subtext": "Coupon Id - NETFLIX04"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "NETFLIX05",
+            "text": "Netflix Standard Subscription at Rs.649/month",
+            "link": "https://www.netflix.com/in/",
+            "success_ratio": "100",
+            "logo": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",
+            "heading": "Netflix Coupon",
+            "subtext": "Coupon Id - NETFLIX05"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "NETFLIX06",
+            "text": "Breaking Bad All Episodes Now on Netflix",
+            "link": "https://www.netflix.com/in/",
+            "success_ratio": "100",
+            "logo": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",
+            "heading": "Netflix Coupon",
+            "subtext": "Coupon Id - NETFLIX06"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "NETFLIX07",
+            "text": "Money Heist All Episodes Now on Netflix",
+            "link": "https://www.netflix.com/in/",
+            "success_ratio": "100",
+            "logo": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",
+            "heading": "Netflix Coupon",
+            "subtext": "Coupon Id - NETFLIX07"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "NETFLIX08",
+            "text": "Watch all 3 Seasons of Narcos at just Rs. 499",
+            "link": "https://www.netflix.com/in/",
+            "success_ratio": "100",
+            "logo": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",
+            "heading": "Netflix Coupon",
+            "subtext": "Coupon Id - NETFLIX08"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "AMZN PRIME01",
+            "text": "Amazon Prime Membership: Start 30 Day Free Trail Now",
+            "link": "https://www.primevideo.com/",
+            "success_ratio": "100",
+            "logo": "https://smallimg.pngkey.com/png/small/591-5914371_amazon-prime-video.png",
+            "heading": "Prime Video",
+            "subtext": "Coupon Id - AMZN PRIME01"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "AMZN PRIME02",
+            "text": "Join Amazon Prime and watch One World Together at Home Concert at Rs. 999 (One Year Subscription)",
+            "link": "https://www.primevideo.com/",
+            "success_ratio": "100",
+            "logo": "https://smallimg.pngkey.com/png/small/591-5914371_amazon-prime-video.png",
+            "heading": "Prime Video",
+            "subtext": "Coupon Id - AMZN PRIME02"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "AMZN PRIME03",
+            "text": "Join Amazon Prime and watch Mardaani 2 at Rs. 999 (One Year Subscription)",
+            "link": "https://www.primevideo.com/",
+            "success_ratio": "100",
+            "logo": "https://smallimg.pngkey.com/png/small/591-5914371_amazon-prime-video.png",
+            "heading": "Prime Video",
+            "subtext": "Coupon Id - AMZN PRIME03"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "AMZN PRIME04",
+            "text": "3 months of Prime @ Just ₹ 329 | Start 30 Day Free Trail Now",
+            "link": "https://www.primevideo.com/",
+            "success_ratio": "100",
+            "logo": "https://smallimg.pngkey.com/png/small/591-5914371_amazon-prime-video.png",
+            "heading": "Prime Video",
+            "subtext": "Coupon Id - AMZN PRIME04"
+        },
+        {
+            "category": "Entertainment",
+            "coupon": "AMZN PRIME05",
+            "text": "Join Amazon Prime and watch Latest Movies and more at just Rs. 999 (One Year Subscription)",
+            "link": "https://www.primevideo.com/",
+            "success_ratio": "100",
+            "logo": "https://smallimg.pngkey.com/png/small/591-5914371_amazon-prime-video.png",
+            "heading": "Prime Video",
+            "subtext": "Coupon Id - AMZN PRIME05"
+        },
+        {
+            "category": "Food",
+            "coupon": "PAYTM21",
+            "text": "Upto Rs. 80 Cashback on KFC Vouchers",
+            "link": "https://paytm.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Coupon",
+            "subtext": "Coupon Id - PAYTM21"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET03",
+            "text": "Upto 30% Off on Everyday Essentials",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET03"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET04",
+            "text": "Upto 40% Off on Foodgrains, Masalas & Oils",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET04"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET05",
+            "text": "BB Star Exclusive: Flat 40% Off on Select Products",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET05"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET15",
+            "text": "Upto 15% Off on Stationery",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET15"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET16",
+            "text": "Upto 50% Off on Gourmet",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET16"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET17",
+            "text": "Blockbuster Sale: Upto 70% Off on Home & Kitchen",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET17"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET18",
+            "text": "5% - 10% Off on Select Products",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET18"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET19",
+            "text": "Introducing The Beauty Store",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET19"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET20",
+            "text": "Buy 5L Saffola Gold and Get 1L Free",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET20"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET21",
+            "text": "15% - 25% Off on Select Products",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET21"
+        },
+        {
+            "category": "Grocery",
+            "coupon": "BIG BASKET22",
+            "text": "Upto 15% Off on Health Drinks",
+            "link": "https://www.bigbasket.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/99-991436_prev-big-basket-logo-png-clipart.png",
+            "heading": "Big Basket Coupon",
+            "subtext": "Coupon Id - BIG BASKET22"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS05",
+            "text": "Housefull Sale: Min 30% Off on Select Products",
+            "link": "https://grofers.com/",
+            "success_ratio": "100",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS05"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS06",
+            "text": "Flat 19% Off on Kissan Mixed Fruit Jam (700gms)",
+            "link": "https://grofers.com/",
+            "success_ratio": "100",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS06"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS07",
+            "text": "Upto 62% Off on Household Essentials",
+            "link": "https://grofers.com/",
+            "success_ratio": "100",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS07"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS08",
+            "text": "Upto 64% Off on Household Products",
+            "link": "https://grofers.com/",
+            "success_ratio": "100",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS08"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS09",
+            "text": "Upto 78% Off on Bottles & Containers",
+            "link": "https://grofers.com/",
+            "success_ratio": "100",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS09"
+        },
+        {
+            "category": "Food",
+            "coupon": "GROFERS10",
+            "text": "Housefull Sale: Buy 1 Get 1 Free on 200+ Products",
+            "link": "https://grofers.com/",
+            "success_ratio": "100",
+            "logo": "https://apprecs.org/gp/images/app-icons/300/46/com.grofers.customerapp.jpg",
+            "heading": "Grofer Coupon",
+            "subtext": "Coupon Id - GROFERS10"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC02",
+            "text": "Zinger Doubles: 2 Chicken Zingers at Unbelievable Price",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "100",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC02"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC03",
+            "text": "KFC Super Saver Range Starting at Rs. 199",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "100",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC03"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC06",
+            "text": "2 pcs Red Hot Chicken at Rs. 220",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "100",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC06"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC08",
+            "text": "KFC Buckets starting at Rs. 199",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "100",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC08"
+        },
+        {
+            "category": "Food",
+            "coupon": "KFC11",
+            "text": "Popcorn Chicken at Best Prices",
+            "link": "https://online.kfc.co.in/",
+            "success_ratio": "100",
+            "logo": "https://pluspng.com/img-png/kfc-png-kfc-logo-png-1-year-ago-1024.png",
+            "heading": "KFC Coupon",
+            "subtext": "Coupon Id - KFC11"
+        },
+        {
+            "category": "Food",
+            "coupon": "MCDONALD'S01",
+            "text": "Stay at Home Combos for 2 Starting at Rs. 309",
+            "link": "https://www.mcdonaldsindia.com/",
+            "success_ratio": "100",
+            "logo": "https://webstockreview.net/images/mcdonalds-clipart-icon-12.png",
+            "heading": "McDonald's Coupon",
+            "subtext": "Coupon Id - MCDONALD'S01"
+        },
+        {
+            "category": "Food",
+            "coupon": "MCDONALD'S10",
+            "text": "McSaver McEgg Meal Starting from Rs. 186",
+            "link": "https://www.mcdonaldsindia.com/",
+            "success_ratio": "100",
+            "logo": "https://webstockreview.net/images/mcdonalds-clipart-icon-12.png",
+            "heading": "McDonald's Coupon",
+            "subtext": "Coupon Id - MCDONALD'S10"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT01",
+            "text": "Super Value Offer: Get 2 Medium Pizzas at 50% Off on Signature & Supreme Range",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT01"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT02",
+            "text": "Magic Pizza Box Starting at Rs. 395",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT02"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT03",
+            "text": "Wow Everyday Value: 2 Medium Pan Pizzas Starting at Rs. 199 Each",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT03"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT04",
+            "text": "Big Pizza Meal for 2 Starting at Rs. 399 (Online Order)",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT04"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT05",
+            "text": "Wow Everyday Value: 2 Personal Pan Pizzas Starting at Rs. 99 Each",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT05"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT06",
+            "text": "Tastiest Pizzas at Rs 99 Each",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT06"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT07",
+            "text": "New San Francisco Handcrafted Medium Pizza starting at Rs. 239",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT07"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT08",
+            "text": "Pizza Hut Offers: 3 Medium Pan Pizzas starting at Rs. 499",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT08"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT09",
+            "text": "Buy 2 Medium Pan Pizzas of Select Range & Save Upto Rs. 360",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT09"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT10",
+            "text": "Family Fun Meal for 2 at Rs. 565",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT10"
+        },
+        {
+            "category": "Food",
+            "coupon": "PIZZA HUT11",
+            "text": "Triple Treat Box: Meal for 4 Starting at Just Rs. 699",
+            "link": "https://www.pizzahut.co.in/",
+            "success_ratio": "100",
+            "logo": "https://logos-download.com/wp-content/uploads/2016/04/Pizza_Hut_logo_logotype.png",
+            "heading": "Pizza Hut Food Coupon",
+            "subtext": "Coupon Id - PIZZA HUT11"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY21",
+            "text": "KFC Offer: 5 in 1 Meal Box Starting at Rs. 200",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY21"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY22",
+            "text": "Food at Budget Prices from Pocket Friendly Restaurants",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY22"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY23",
+            "text": "Get Groceries & Staples Delivered at your Doorstep (Delhi-NCR)",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY23"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY24",
+            "text": "Get Lowest Prices on Burgers",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY24"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY25",
+            "text": "Get Fresh Meat Delivered at your Doorstep",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY25"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY26",
+            "text": "Get Groceries & Staples Delivered at your Doorstep (Mumbai)",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY26"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY27",
+            "text": "Get Groceries & Staples Delivered at your Doorstep (Gurgaon)",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY27"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY28",
+            "text": "Swiggy Offer: 15% Supercash on Orders Paid via MobiKwik Wallet",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY28"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY29",
+            "text": "Swiggy Pop: Meals Starting from Rs. 99",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY29"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY30",
+            "text": "Avail Best Prices on Veg/Non Veg Platters from Barbeque Nation",
+            "link": "https://www.swiggy.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY30"
+        },
+        {
+            "category": "Food",
+            "coupon": "SWIGGY34",
+            "text": "Best Prices on Veg & Non Veg Buffets from Barbeque Nation",
+            "link": "https://www.zomato.com/",
+            "success_ratio": "100",
+            "logo": "https://miro.medium.com/fit/c/160/160/1*n8a5ynNw0XqBlgwugpFrtg.png",
+            "heading": "Swiggy Coupon",
+            "subtext": "Coupon Id - SWIGGY34"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM19",
+            "text": "Upto Rs. 650 Cashback on Fastrack Vouchers",
+            "link": "https://paytm.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM19"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM20",
+            "text": "Upto Rs. 350 Cashback at Lakme Salon",
+            "link": "https://paytm.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM20"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM24",
+            "text": "Upto Rs. 400 Cashback on United Colors Of Benetton Vouchers",
+            "link": "https://paytm.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM24"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM25",
+            "text": "Upto Rs. 1000 Cashback on Jack & Jones Vouchers",
+            "link": "https://paytm.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM25"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM26",
+            "text": "Upto 50% Off on Kurtis and Kurtas from W, Varanga and More",
+            "link": "https://paytm.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM26"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM27",
+            "text": "Upto 50% Off on Men's Fashion from Flying Machine",
+            "link": "https://paytm.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM27"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM28",
+            "text": "Upto 70% Off on Footwear From Red Tape",
+            "link": "https://paytm.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM28"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM29",
+            "text": "Upto 50% Off on Women's Fashion from Globus",
+            "link": "https://paytm.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM29"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "PAYTM30",
+            "text": "Upto 10% Cashback on Vero Moda Vouchers",
+            "link": "https://paytm.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/02/Paytm-Logo-With-White-Border-PNG-image.png",
+            "heading": "Paytm Discount Coupon",
+            "subtext": "Coupon Id - PAYTM30"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL08",
+            "text": "Upto 50% Off on Micromax Smartphones",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL08"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL09",
+            "text": "50% Off or more on Jeans for Men",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL09"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL10",
+            "text": "40% - 80% Off on Sports Shoes from Nike, Reebok & More",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL10"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL11",
+            "text": "Window ACs Starting at Rs. 21,500",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL11"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SNAPDEAL12",
+            "text": "Upto 65% Off on Watches for Kids",
+            "link": "https://www.snapdeal.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.iconscout.com/icon/free/png-256/snapdeal-282408.png",
+            "heading": "Snapdeal Shopping Coupon",
+            "subtext": "Coupon Id - SNAPDEAL12"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES02",
+            "text": "Wednesday Brand Bazaar: Deals Starting at Rs. 99",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "100",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES02"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES08",
+            "text": "Power Thursday: Upto 80% Off on Mobiles, Accessories and More",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "100",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES08"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES18",
+            "text": "Mobile & Laptop Accessories Starting at Rs. 99",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "100",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES18"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES19",
+            "text": "Rocket Deals: 2 Day Delivery on Select Products",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "100",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES19"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "SHOPCLUES20",
+            "text": "Bestselling Trimmers & Shavers Under Rs. 499",
+            "link": "https://www.shopclues.com/",
+            "success_ratio": "100",
+            "logo": "https://www.shopclues.com/blog/wp-content/uploads/2018/08/SC_Black.png",
+            "heading": "Shopclues Coupon",
+            "subtext": "Coupon Id - SHOPCLUES20"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA02",
+            "text": "Top Styles: Upto 30-70% Off on Women's Fashion",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA02"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA05",
+            "text": "Upto 40-80% Off on Formal Wear for Men",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA05"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA06",
+            "text": "Upto 70% Off on Reebok Sportswear & Accessories",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA06"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA26",
+            "text": "Upto 30-70% Off on Women's Winter Wear",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA26"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA27",
+            "text": "Upto 30- 50% Off on W Women's Wear",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA27"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA28",
+            "text": "Upto 70% Off on Lehenga Collection from Top Brands",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA28"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "MYNTRA29",
+            "text": "Upto 60% Off on Levi's Jeans",
+            "link": "https://www.myntra.com/",
+            "success_ratio": "100",
+            "logo": "https://www.searchpng.com/wp-content/uploads/2019/01/Myntra-logo-png-icon.png",
+            "heading": "Myntra Discount Coupon",
+            "subtext": "Coupon Id - MYNTRA29"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART04",
+            "text": "AprilOffer: Buy Eyeglasses with BLU Lenses at Rs.1499",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART04"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART07",
+            "text": "AprilOffer: ThinOptics starting at Rs. 799",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART07"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART08",
+            "text": "AprilOffer: Buy 1 Get 1 Free on John Jacobs Eyeglasses",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART08"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "LENSKART09",
+            "text": "Free Aqualens 120 ml Solution with Any Contact Lenses",
+            "link": "https://www.lenskart.com/",
+            "success_ratio": "100",
+            "logo": "https://www.pinclipart.com/picdir/big/101-1013705_fast-growth-creates-difficult-architectural-challenges-lenskart-company.png",
+            "heading": "Lenskart Shopping Coupon",
+            "subtext": "Coupon Id - LENSKART09"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART05",
+            "text": "Upto 70% Off on Hygiene Essentials",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART05"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART07",
+            "text": "Upto 40% Off on Food & Nutrition",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART07"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART08",
+            "text": "Supermart Lite: Upto 60% Off on Grocery Essentials",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART08"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART09",
+            "text": "Upto 50% Off on Breakfast Cereals",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART09"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART10",
+            "text": "Pay your Water Bill in Few Easy Steps with Flipkart App",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART10"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART11",
+            "text": "Upto 70% Off on Epilators",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART11"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART12",
+            "text": "Pay Broadband Bills in Few Easy Steps with Flipkart App",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART12"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART13",
+            "text": "Upto 20% Off on Beverages & Health Drinks",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART13"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART14",
+            "text": "Upto 60% Off on Foodgrains, Oils & Ghee",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART14"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART15",
+            "text": "Upto 25% Off on Dal & Pulses",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART15"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART16",
+            "text": "Upto 60% Off on Safety Masks",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART16"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART17",
+            "text": "Upto 35% Off on Vacuum Cleaners",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART17"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART18",
+            "text": "Upto 25% Off on Dishwashers",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART18"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART19",
+            "text": "Upto 50% Off on Cleaning Supplies",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART19"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART20",
+            "text": "Upto 50% Off on Baby Essentials",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART20"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART21",
+            "text": "Upto 30% Off on Washing Machines",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART21"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "FLIPKART22",
+            "text": "Pay Electricity Bills in Few Easy Steps with Flipkart App",
+            "link": "https://www.flipkart.com/",
+            "success_ratio": "100",
+            "logo": "https://cdn.freebiesupply.com/logos/large/2x/flipkart-logo-png-transparent.png",
+            "heading": "Flipkart Shopping Voucher",
+            "subtext": "Coupon Id - FLIPKART22"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO02",
+            "text": "Min 50% Off on ONLY",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "100",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO02"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO03",
+            "text": "Sign Up and Get Rs. 500 in Ajio Wallet",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "100",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO03"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO06",
+            "text": "Upto 60% Off on Crocs",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "100",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO06"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO08",
+            "text": "Bags, Belts & Wallets Under Rs. 699",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "100",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO08"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO11",
+            "text": "5,000+ Branded Styles starting at Rs. 500",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "100",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO11"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO12",
+            "text": "Min 50% Off on 612 League Kids Fashion",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "100",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO12"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO13",
+            "text": "30-50% Off on Men's Shirts",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "100",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO13"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO14",
+            "text": "Min 40% Off on Steve Madden Fashion",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "100",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO14"
+        },
+        {
+            "category": "Shopping",
+            "coupon": "AJIO15",
+            "text": "Min 50% Off on United Colors of Benetton Fashion",
+            "link": "https://www.ajio.com/",
+            "success_ratio": "100",
+            "logo": "https://data.apkshub.com/e6/com.ril.ajio/3.1/icon.png",
+            "heading": "Ajio Voucher",
+            "subtext": "Coupon Id - AJIO15"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP14",
+            "text": "Low Cost Flight Bookings for Mumbai Frankfurt Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP14"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP15",
+            "text": "Low Cost Flight Bookings for Mumbai Abu Dhabi Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP15"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP16",
+            "text": "Low Cost Flight Bookings for Delhi London Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP16"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP17",
+            "text": "Discounted Flight Tickets for Mumbai Singapore Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP17"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP18",
+            "text": "Discounted Flight Tickets for Kuala Lumpur Bangalore Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP18"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP19",
+            "text": "Discounted Flight Tickets for Ahmedabad Dubai Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP19"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP20",
+            "text": "Discounted Flight Tickets for Jaipur Dubai Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP20"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP21",
+            "text": "Discounted Flight Tickets for Kolkata Bangkok Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP21"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP22",
+            "text": "Cheap Flights for Delhi Singapore Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP22"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP23",
+            "text": "Cheap Flights for Bangkok Koh Samui Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP23"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP24",
+            "text": "Cheap Flights for Mumbai Dubai Flights",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP24"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP25",
+            "text": "Pay at Hotel: Book Domestic Hotels with Rs.1 Advance Payment",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP25"
+        },
+        {
+            "category": "Travel",
+            "coupon": "MAKEMYTRIP26",
+            "text": "Zero Payment Gateway Charges on Train Ticket Bookings",
+            "link": "https://www.makemytrip.com/",
+            "success_ratio": "100",
+            "logo": "https://www.hoteludaipalace.com/img/makemytrip.png",
+            "heading": "MakeMyTrip Travel Coupon",
+            "subtext": "Coupon Id - MAKEMYTRIP26"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM01",
+            "text": "Break Away Deals: Flat 20% Off on Stays (April 1st - May 31st)",
+            "link": "https://www.booking.com/",
+            "success_ratio": "100",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM01"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM02",
+            "text": "Over 35 Resorts at Amazing Prices in Dubai",
+            "link": "https://www.booking.com/",
+            "success_ratio": "100",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM02"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM03",
+            "text": "Resort Bookings Worldwide Starting at Rs. 3,811",
+            "link": "https://www.booking.com/",
+            "success_ratio": "100",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM03"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM04",
+            "text": "Hotels in Paris Starting at Rs. 5774",
+            "link": "https://www.booking.com/",
+            "success_ratio": "100",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM04"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM05",
+            "text": "Upto 15% Off on Couple Romantic Destinations",
+            "link": "https://www.booking.com/",
+            "success_ratio": "100",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM05"
+        },
+        {
+            "category": "Travel",
+            "coupon": "BOOKING.COM06",
+            "text": "Off-Peak Deals In Bangkok starting at Rs. 516",
+            "link": "https://www.booking.com/",
+            "success_ratio": "100",
+            "logo": "https://i.dlpng.com/static/png/501593_preview.png",
+            "heading": "Booking.com Coupon",
+            "subtext": "Coupon Id - BOOKING.COM06"
+        }
+    ]
+}
